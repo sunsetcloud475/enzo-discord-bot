@@ -1,0 +1,7 @@
+setuptools
+wheel
+django
+python-dotenv
+aiohttp
+discord.py
+mysqlclient
